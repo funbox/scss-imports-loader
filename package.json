@@ -1,0 +1,9 @@
+{
+  "name": "scss-imports-loader",
+  "version": "1.0.0",
+  "description": "Global imports for SCSS files",
+  "main": "index.js",
+  "dependencies": {
+    "loader-utils": "1.1.0"
+  }
+}
