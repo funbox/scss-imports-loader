@@ -1,5 +1,5 @@
 {
-  "name": "funbox-scss-imports-loader",
+  "name": "@funboxteam/scss-imports-loader",
   "version": "1.0.0",
   "description": "Global imports for SCSS files",
   "main": "index.js",
