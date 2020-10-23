@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.1.1 (23.10.2020)
+
+Added LICENSE, improved README. Published the package on GitHub.
+
+
 ## 2.1.0 (08.05.2019)
 
 Fixed the package name in README.

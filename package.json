@@ -1,6 +1,6 @@
 {
   "name": "@funboxteam/scss-imports-loader",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Global imports for SCSS files",
   "license": "MIT",
   "author": "Igor Adamenko <mail@igoradamenko.com> (https://igoradamenko.com)",
