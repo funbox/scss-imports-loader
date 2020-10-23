@@ -2,14 +2,16 @@
 
 ## 2.1.0 (08.05.2019)
 
-* Fixed the package name in README.
+Fixed the package name in README.
+
 
 ## 2.0.0 (06.07.2018)
 
-* Added .editorconfig.
-* Improved .gitignore.
-* Renamed the package. 
+Added .editorconfig, improved .gitignore.
+
+Also renamed the package. 
+
 
 ## 1.0.0 (30.08.2017)
 
-* Init version.
+Init version.
