@@ -9,6 +9,9 @@
     "url": "https://github.com/funbox/scss-imports-loader"
   },
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "dependencies": {
     "loader-utils": "1.1.0"
   }
