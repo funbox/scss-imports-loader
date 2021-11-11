@@ -12,6 +12,9 @@
   "files": [
     "index.js"
   ],
+  "scripts": {
+    "prepublishOnly": "lawyer"
+  },
   "dependencies": {
     "loader-utils": "1.1.0"
   }
